@@ -1,0 +1,6 @@
+{
+  "name": "FIXIFY - Mobile & Laptop Repair System",
+  "description": "Comprehensive repair shop management system for mobile and laptop service centers with jobcard tracking, inventory management, technician assignment, and financial ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
